@@ -17,4 +17,4 @@ buildNumber.properties
 .classpath
 Witches-n-Wives-1.12.2-v1.0.0.zip
 Witches-N-Wives1.12.2-1.0.1.mrpack
-.mrpack
+*.mrpack
