@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "iceandfire",
+  "modName": "Ice and Fire",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

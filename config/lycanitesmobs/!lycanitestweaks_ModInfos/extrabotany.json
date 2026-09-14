@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "extrabotany",
+  "modName": "ExtraBotany",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

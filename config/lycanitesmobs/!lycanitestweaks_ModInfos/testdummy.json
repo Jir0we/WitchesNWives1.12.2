@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "testdummy",
+  "modName": "TestDummy",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

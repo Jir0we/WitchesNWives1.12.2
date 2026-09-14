@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "mod_lavacow",
+  "modName": "Fish's Undead Rising",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

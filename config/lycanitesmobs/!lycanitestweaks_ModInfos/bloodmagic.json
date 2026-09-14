@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "bloodmagic",
+  "modName": "Blood Magic: Alchemical Wizardry",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

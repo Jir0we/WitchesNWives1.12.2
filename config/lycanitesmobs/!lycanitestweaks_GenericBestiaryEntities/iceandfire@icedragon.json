@@ -1,0 +1,49 @@
+{
+  "loadDefault": true,
+  "entityID": "iceandfire:icedragon",
+  "langKeyName": "icedragon",
+  "langKeyPrefix": "",
+  "langKeySuffix": "",
+  "renderInitialSpawn": true,
+  "disableBestiaryEntry": false,
+  "bestiaryModifications": [
+    {
+      "modType": "nbtMod",
+      "knowledgeRank": 3,
+      "experienceRatio": 0.0,
+      "nbtTag": "",
+      "isDefault": false,
+      "userInput": true,
+      "refreshData": false,
+      "nbtType": "ALL",
+      "values": []
+    },
+    {
+      "modType": "iceandfire:attacking",
+      "knowledgeRank": 1,
+      "experienceRatio": 0.0
+    },
+    {
+      "modType": "iceandfire:flying",
+      "knowledgeRank": 1,
+      "experienceRatio": 0.0
+    },
+    {
+      "modType": "iceandfire:dragonStage",
+      "knowledgeRank": 1,
+      "experienceRatio": 0.0,
+      "variantCount": 4
+    },
+    {
+      "modType": "iceandfire:variant",
+      "knowledgeRank": 1,
+      "experienceRatio": 0.0,
+      "variantCount": 4
+    },
+    {
+      "modType": "iceandfire:gender",
+      "knowledgeRank": 1,
+      "experienceRatio": 0.0
+    }
+  ]
+}

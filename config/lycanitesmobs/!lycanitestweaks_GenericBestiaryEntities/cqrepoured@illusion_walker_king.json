@@ -1,0 +1,22 @@
+{
+  "loadDefault": true,
+  "entityID": "cqrepoured:illusion_walker_king",
+  "langKeyName": "cqr_illusion_walker_king",
+  "langKeyPrefix": "",
+  "langKeySuffix": "",
+  "renderInitialSpawn": true,
+  "disableBestiaryEntry": false,
+  "bestiaryModifications": [
+    {
+      "modType": "nbtMod",
+      "knowledgeRank": 3,
+      "experienceRatio": 0.0,
+      "nbtTag": "",
+      "isDefault": false,
+      "userInput": true,
+      "refreshData": false,
+      "nbtType": "ALL",
+      "values": []
+    }
+  ]
+}

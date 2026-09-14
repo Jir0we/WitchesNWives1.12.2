@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "mocreatures",
+  "modName": "Mo' Creatures Extended",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

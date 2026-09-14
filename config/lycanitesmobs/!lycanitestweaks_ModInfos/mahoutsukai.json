@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "mahoutsukai",
+  "modName": "Mahou Tsukai",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

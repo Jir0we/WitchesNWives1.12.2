@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "thaumcraft",
+  "modName": "Thaumcraft",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

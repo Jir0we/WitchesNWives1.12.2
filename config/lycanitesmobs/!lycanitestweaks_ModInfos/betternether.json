@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "betternether",
+  "modName": "Better Nether",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

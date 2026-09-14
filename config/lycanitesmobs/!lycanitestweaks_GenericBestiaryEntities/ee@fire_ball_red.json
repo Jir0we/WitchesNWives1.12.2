@@ -1,0 +1,22 @@
+{
+  "loadDefault": true,
+  "entityID": "ee:fire_ball_red",
+  "langKeyName": "fire_ball_red",
+  "langKeyPrefix": "",
+  "langKeySuffix": "",
+  "renderInitialSpawn": true,
+  "disableBestiaryEntry": false,
+  "bestiaryModifications": [
+    {
+      "modType": "nbtMod",
+      "knowledgeRank": 3,
+      "experienceRatio": 0.0,
+      "nbtTag": "",
+      "isDefault": false,
+      "userInput": true,
+      "refreshData": false,
+      "nbtType": "ALL",
+      "values": []
+    }
+  ]
+}

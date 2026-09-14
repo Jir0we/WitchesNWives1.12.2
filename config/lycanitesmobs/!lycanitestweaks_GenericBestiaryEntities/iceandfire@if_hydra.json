@@ -1,0 +1,39 @@
+{
+  "loadDefault": true,
+  "entityID": "iceandfire:if_hydra",
+  "langKeyName": "if_hydra",
+  "langKeyPrefix": "",
+  "langKeySuffix": "",
+  "renderInitialSpawn": true,
+  "disableBestiaryEntry": false,
+  "bestiaryModifications": [
+    {
+      "modType": "nbtMod",
+      "knowledgeRank": 3,
+      "experienceRatio": 0.0,
+      "nbtTag": "",
+      "isDefault": false,
+      "userInput": true,
+      "refreshData": false,
+      "nbtType": "ALL",
+      "values": []
+    },
+    {
+      "modType": "iceandfire:attacking",
+      "knowledgeRank": 1,
+      "experienceRatio": 0.0
+    },
+    {
+      "modType": "iceandfire:hydraHeads",
+      "knowledgeRank": 2,
+      "experienceRatio": 0.0,
+      "variantCount": 9
+    },
+    {
+      "modType": "iceandfire:variant",
+      "knowledgeRank": 1,
+      "experienceRatio": 0.0,
+      "variantCount": 3
+    }
+  ]
+}

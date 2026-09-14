@@ -1,0 +1,22 @@
+{
+  "loadDefault": true,
+  "entityID": "pots_and_mimics:end_pot_crab",
+  "langKeyName": "end_pot_crab",
+  "langKeyPrefix": "",
+  "langKeySuffix": "",
+  "renderInitialSpawn": true,
+  "disableBestiaryEntry": false,
+  "bestiaryModifications": [
+    {
+      "modType": "nbtMod",
+      "knowledgeRank": 3,
+      "experienceRatio": 0.0,
+      "nbtTag": "",
+      "isDefault": false,
+      "userInput": true,
+      "refreshData": false,
+      "nbtType": "ALL",
+      "values": []
+    }
+  ]
+}

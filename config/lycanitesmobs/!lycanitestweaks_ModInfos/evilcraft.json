@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "evilcraft",
+  "modName": "EvilCraft",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

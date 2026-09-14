@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "tombstone",
+  "modName": "Corail Tombstone",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

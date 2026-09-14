@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "raids",
+  "modName": "Raids",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

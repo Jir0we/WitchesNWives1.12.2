@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "deepmoblearning",
+  "modName": "Deep Mob Learning",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

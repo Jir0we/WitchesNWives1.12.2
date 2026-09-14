@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "battletowers",
+  "modName": "Battle Towers",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

@@ -1,0 +1,57 @@
+{
+  "loadDefault": true,
+  "entityID": "iceandfire:seaserpent",
+  "langKeyName": "seaserpent",
+  "langKeyPrefix": "",
+  "langKeySuffix": "",
+  "renderInitialSpawn": true,
+  "disableBestiaryEntry": false,
+  "bestiaryModifications": [
+    {
+      "modType": "nbtMod",
+      "knowledgeRank": 3,
+      "experienceRatio": 0.0,
+      "nbtTag": "",
+      "isDefault": false,
+      "userInput": true,
+      "refreshData": false,
+      "nbtType": "ALL",
+      "values": []
+    },
+    {
+      "modType": "iceandfire:attacking",
+      "knowledgeRank": 1,
+      "experienceRatio": 0.0
+    },
+    {
+      "modType": "iceandfire:sizeScale",
+      "knowledgeRank": 1,
+      "experienceRatio": 0.0,
+      "sizes": [
+        1.5,
+        2.5,
+        3.5,
+        4.5,
+        5.5
+      ],
+      "giantSizes": [
+        6.0,
+        6.75,
+        7.5,
+        8.25,
+        9.0
+      ]
+    },
+    {
+      "modType": "iceandfire:giantVariant",
+      "knowledgeRank": 2,
+      "experienceRatio": 0.0
+    },
+    {
+      "modType": "iceandfire:variant",
+      "knowledgeRank": 1,
+      "experienceRatio": 0.0,
+      "variantCount": 7
+    }
+  ]
+}

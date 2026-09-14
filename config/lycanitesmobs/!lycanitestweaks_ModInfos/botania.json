@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "botania",
+  "modName": "Botania",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

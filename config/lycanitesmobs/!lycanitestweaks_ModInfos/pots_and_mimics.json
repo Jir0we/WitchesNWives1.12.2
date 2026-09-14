@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "pots_and_mimics",
+  "modName": "Realm RPG: Pots & Mimics",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

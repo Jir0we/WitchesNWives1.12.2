@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "cqrepoured",
+  "modName": "Chocolate Quest Repoured Mod",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

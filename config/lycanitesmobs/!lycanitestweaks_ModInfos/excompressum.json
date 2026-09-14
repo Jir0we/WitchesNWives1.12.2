@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "excompressum",
+  "modName": "Ex Compressum",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

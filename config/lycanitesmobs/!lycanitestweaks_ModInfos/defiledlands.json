@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "defiledlands",
+  "modName": "Defiled Lands",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

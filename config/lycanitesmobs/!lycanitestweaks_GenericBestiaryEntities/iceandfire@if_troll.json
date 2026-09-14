@@ -1,0 +1,39 @@
+{
+  "loadDefault": true,
+  "entityID": "iceandfire:if_troll",
+  "langKeyName": "if_troll",
+  "langKeyPrefix": "",
+  "langKeySuffix": "",
+  "renderInitialSpawn": true,
+  "disableBestiaryEntry": false,
+  "bestiaryModifications": [
+    {
+      "modType": "nbtMod",
+      "knowledgeRank": 3,
+      "experienceRatio": 0.0,
+      "nbtTag": "",
+      "isDefault": false,
+      "userInput": true,
+      "refreshData": false,
+      "nbtType": "ALL",
+      "values": []
+    },
+    {
+      "modType": "iceandfire:attacking",
+      "knowledgeRank": 1,
+      "experienceRatio": 0.0
+    },
+    {
+      "modType": "iceandfire:trollWeapon",
+      "knowledgeRank": 2,
+      "experienceRatio": 0.0,
+      "variantCount": 7
+    },
+    {
+      "modType": "iceandfire:variant",
+      "knowledgeRank": 1,
+      "experienceRatio": 0.0,
+      "variantCount": 3
+    }
+  ]
+}

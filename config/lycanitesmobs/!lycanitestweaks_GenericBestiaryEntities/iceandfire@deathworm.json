@@ -1,0 +1,57 @@
+{
+  "loadDefault": true,
+  "entityID": "iceandfire:deathworm",
+  "langKeyName": "deathworm",
+  "langKeyPrefix": "",
+  "langKeySuffix": "",
+  "renderInitialSpawn": true,
+  "disableBestiaryEntry": false,
+  "bestiaryModifications": [
+    {
+      "modType": "nbtMod",
+      "knowledgeRank": 3,
+      "experienceRatio": 0.0,
+      "nbtTag": "",
+      "isDefault": false,
+      "userInput": true,
+      "refreshData": false,
+      "nbtType": "ALL",
+      "values": []
+    },
+    {
+      "modType": "iceandfire:attacking",
+      "knowledgeRank": 1,
+      "experienceRatio": 0.0
+    },
+    {
+      "modType": "iceandfire:sizeScale",
+      "knowledgeRank": 1,
+      "experienceRatio": 0.0,
+      "sizes": [
+        0.25,
+        0.3375,
+        0.425,
+        0.5125,
+        0.6,
+        1.0,
+        1.35
+      ],
+      "giantSizes": [
+        1.7,
+        2.05,
+        2.4
+      ]
+    },
+    {
+      "modType": "iceandfire:giantVariant",
+      "knowledgeRank": 2,
+      "experienceRatio": 0.0
+    },
+    {
+      "modType": "iceandfire:variant",
+      "knowledgeRank": 1,
+      "experienceRatio": 0.0,
+      "variantCount": 3
+    }
+  ]
+}

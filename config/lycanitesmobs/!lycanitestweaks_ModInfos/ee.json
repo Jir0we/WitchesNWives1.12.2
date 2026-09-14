@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "ee",
+  "modName": "End Expansion",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

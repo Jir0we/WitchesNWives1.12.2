@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "better_diving",
+  "modName": "Better Diving",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

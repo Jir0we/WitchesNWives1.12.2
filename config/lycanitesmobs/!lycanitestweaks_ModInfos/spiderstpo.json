@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "spiderstpo",
+  "modName": "Spiders 2.0",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "familiarfauna",
+  "modName": "Familiar Fauna",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}

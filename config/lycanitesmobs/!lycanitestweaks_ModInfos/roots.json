@@ -1,0 +1,10 @@
+{
+  "loadDefault": true,
+  "modID": "roots",
+  "modName": "Roots",
+  "entityLangKeyPrefix": "entity.",
+  "entityLangKeySuffix": ".name",
+  "descriptionLangKeyPrefix": "",
+  "descriptionLangKeySuffix": "",
+  "disableAllBestiaryEntries": false
+}
