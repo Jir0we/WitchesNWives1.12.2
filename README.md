@@ -8,7 +8,7 @@ This is the CLIENTSIDE Pack - NOT Designed for Servers
 
 # Requirements
 
-Java Versions 8.202 and above (Yes, includes up to 8.502)
+- Java Versions 8.202 and above.
 
 Report any issues into Github issues so I can look at them at the least :)
 
