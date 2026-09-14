@@ -1,0 +1,1817 @@
+[
+    {
+        "authors": [
+            "TheRealp455w0rd"
+        ],
+        "filename": "DankNull-1.12.2-1.7.101.jar",
+        "name": "/dank/null",
+        "version": "1.12.2-1.7.101"
+    },
+    {
+        "authors": [
+            "tr7zw"
+        ],
+        "filename": "3dSkinLayers-forge-mc1.12.2-1.2.0.jar",
+        "name": "3dSkinLayers",
+        "version": "1.2.0"
+    },
+    {
+        "authors": [
+            "serenibyss",
+            "bdew"
+        ],
+        "filename": "ae2stuff-1.12.2-0.9.jar",
+        "name": "AE2 Stuff Unofficial",
+        "version": "0.9"
+    },
+    {
+        "authors": [
+            "NotMyWing",
+            "Serenibyss",
+            "PrototypeTrousers",
+            "AlgorithmX2",
+            "contributors <3"
+        ],
+        "filename": "ae2-uel-v0.56.7.jar",
+        "name": "AE2 Unofficial Extended Life",
+        "url": "https://github.com/AE2-UEL/Applied-Energistics-2",
+        "version": "v0.56.7"
+    },
+    {
+        "authors": [
+            "SuperMartijn642"
+        ],
+        "filename": "additionallanterns-1.1.2-forge-mc1.12.jar",
+        "name": "Additional Lanterns",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/additional-lanterns",
+        "version": "1.1.2"
+    },
+    {
+        "authors": [
+            "mgen256"
+        ],
+        "filename": "additional_lights-1.12.2-1.2.1.jar",
+        "name": "Additional Lights",
+        "version": "1.12.2-1.2.1"
+    },
+    {
+        "authors": [
+            "Grend"
+        ],
+        "filename": "AdvancementPlaques-1.12.2-1.4.10.jar",
+        "name": "Advancement Plaques",
+        "url": "https://anthonyhilyard.com/",
+        "version": "1.4.10"
+    },
+    {
+        "authors": [
+            "CreativeMD"
+        ],
+        "filename": "AmbientSounds_v3.1.7_mc1.12.2.jar",
+        "name": "AmbientSounds",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2526167"
+    },
+    {
+        "authors": [
+            "squeek"
+        ],
+        "filename": "AppleSkin-mc1.12-1.0.14.jar",
+        "name": "AppleSkin",
+        "version": "1.0.14"
+    },
+    {
+        "authors": [
+            "Smileycorp"
+        ],
+        "filename": "Atlas-Lib-1.12.2-1.1.11.jar",
+        "name": "Atlas Lib",
+        "version": "1.1.11"
+    },
+    {
+        "authors": [
+            "AtomicStryker"
+        ],
+        "filename": "BattleTowers-1.12.2.jar",
+        "name": "AtomicStryker's Battletowers",
+        "url": "http://www.minecraftforum.net/topic/480774-"
+    },
+    {
+        "authors": [
+            "darkhax"
+        ],
+        "filename": "AttributeFix-Forge-1.12.2-1.0.12.jar",
+        "name": "Attribute Fix",
+        "url": "https://minecraft.curseforge.com/projects/attributefix",
+        "version": "1.0.12"
+    },
+    {
+        "authors": [
+            "bdew"
+        ],
+        "filename": "bdlib-1.14.4.1-mc1.12.2.jar",
+        "name": "BD Lib",
+        "url": "http://bdew.net/mods/",
+        "version": "1.14.4.1"
+    },
+    {
+        "authors": [
+            "Azanor"
+        ],
+        "filename": "Baubles-1.12-1.5.2.jar",
+        "name": "Baubles",
+        "url": "http://www.minecraftforum.net/topic/2535073-baubles",
+        "version": "1.12-1.5.2"
+    },
+    {
+        "authors": [
+            "FionaTheMortal"
+        ],
+        "filename": "betterbiomeblend-1.12.2-1.1.7-forge.jar",
+        "name": "Better Biome Blend",
+        "url": "https://github.com/FionaTheMortal/better-biome-blend",
+        "version": "1.12.2-1.1.7-forge"
+    },
+    {
+        "authors": [
+            "Meldexun"
+        ],
+        "filename": "BetterDiving-1.12.2-1.5.8.jar",
+        "name": "Better Diving",
+        "version": "1.5.8"
+    },
+    {
+        "authors": [
+            "chpas"
+        ],
+        "filename": "betterf3plus-1.20.2-1.0.0.jar",
+        "name": "Better F3 Plus",
+        "version": "1.20.2-1.0.0"
+    },
+    {
+        "authors": [
+            "paulevs"
+        ],
+        "filename": "betternether-0.1.8.6.jar",
+        "name": "Better Nether",
+        "url": "https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/wip-mods/2930448-better-nether",
+        "version": "0.1.8.6"
+    },
+    {
+        "filename": "BetterFps-1.4.8.jar",
+        "name": "BetterFps-1.4.8"
+    },
+    {
+        "authors": [
+            "fonnymunkey"
+        ],
+        "filename": "BetterTabs-1.0.4.jar",
+        "name": "BetterTabs",
+        "url": "https://www.curseforge.com/members/fonnymunkey/projects",
+        "version": "1.0.4"
+    },
+    {
+        "authors": [
+            "Joseph 'Nuchaz' Sinclair"
+        ],
+        "filename": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+        "name": "BiblioCraft",
+        "url": "http://www.bibliocraftmod.com",
+        "version": "2.4.6"
+    },
+    {
+        "authors": [
+            "Mrthomas20121"
+        ],
+        "filename": "biolib-1.1.3.jar",
+        "name": "Bio Library",
+        "url": "https://github.com/Mrthomas20121/biolib",
+        "version": "1.1.3"
+    },
+    {
+        "authors": [
+            "Adubbz",
+            "Amnet",
+            "Cheeserolls",
+            "Forstride",
+            "ted80"
+        ],
+        "filename": "BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
+        "name": "Biomes O' Plenty",
+        "url": "http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty",
+        "version": "7.0.1"
+    },
+    {
+        "authors": [
+            "WayofTime",
+            "TehNut"
+        ],
+        "filename": "BloodMagic-1.12.2-2.4.3-105 (1).jar",
+        "name": "Blood Magic: Alchemical Wizardry",
+        "url": "http://www.minecraftforum.net/topic/1899223-bloodmagic",
+        "version": "1.12.2-2.4.3-105"
+    },
+    {
+        "authors": [
+            "Vazkii",
+            "williewillus",
+            "wiiv",
+            "dylan4ever"
+        ],
+        "filename": "Botania+r1.10-364.4.jar",
+        "name": "Botania",
+        "url": "http://www.botaniamod.net",
+        "version": "r1.10-364.4"
+    },
+    {
+        "authors": [
+            "Ejektaflex"
+        ],
+        "filename": "Bountiful-1.12.2-2.2.3.jar",
+        "name": "Bountiful",
+        "version": "2.2.3"
+    },
+    {
+        "authors": [
+            "CursedFlames"
+        ],
+        "filename": "Bountiful Baubles-1.12.2-0.1.8.jar",
+        "name": "Bountiful Baubles",
+        "version": "1.12.2-0.1.8"
+    },
+    {
+        "authors": [
+            "tterrag",
+            "Drullkus",
+            "minecreatr"
+        ],
+        "filename": "CTM-MC1.12.2-1.0.2.31.jar",
+        "name": "CTM",
+        "url": "https://minecraft.curseforge.com/projects/ctm",
+        "version": "MC1.12.2-1.0.2.31"
+    },
+    {
+        "authors": [
+            "jaquadro"
+        ],
+        "filename": "Chameleon-1.12-4.1.3.jar",
+        "name": "Chameleon",
+        "url": "http://www.jaquadro.com/",
+        "version": "1.12-4.1.3"
+    },
+    {
+        "authors": [
+            "Turkey2349"
+        ],
+        "filename": "ChanceCubes-1.12.2-5.0.2.385.jar",
+        "name": "Chance Cubes",
+        "url": "http://minecraft.curseforge.com/mc-mods/233113-chance-cubes",
+        "version": "1.12.2-5.0.2.385"
+    },
+    {
+        "authors": [
+            "tterrag",
+            "Drullkus",
+            "minecreatr"
+        ],
+        "filename": "Chisel-MC1.12.2-1.0.2.45.jar",
+        "name": "Chisel",
+        "url": "https://minecraft.curseforge.com/projects/chisel",
+        "version": "MC1.12.2-1.0.2.45"
+    },
+    {
+        "authors": [
+            "Xalcon"
+        ],
+        "filename": "chococraft_1.12.1-0.9.1.52.jar",
+        "name": "Chococraft 3",
+        "version": "0.9.1.52"
+    },
+    {
+        "authors": [
+            "\nAt first we want to thank and credit Chocolatin for creating the original Chocolate Quest and with that gave the base and motivation for this (even if this is a complete rewrite from scratch)\n\nProject Lead:\n  > ArloTheEpic\nCoders:\n  > DerToaster98 - Pretty much everything except some items and the randomized castles\n  > Meldexun - Entities & everywhere a bit\n  > jdawg3636 - Assisting & Fixing\n  > KalgogSmash - Castles & Random structures\n  > MrMarnic - Protection System and Help with Tile-Entities\n  > Tiviacz1337 - Items\nArtists:\n  > Sir Squidly - Blocks\n  > Silentine - Items"
+        ],
+        "filename": "Chocolate_Quest_Repoured-1.12.2-2.6.16B.jar",
+        "name": "Chocolate Quest Repoured Mod",
+        "url": "https://cq-repoured.net/",
+        "version": "2.6.16B"
+    },
+    {
+        "authors": [
+            "lumien"
+        ],
+        "filename": "ChunkAnimator-1.12.2-1.2.1.jar",
+        "name": "Chunk Animator",
+        "version": "1.12.2-1.2.1"
+    },
+    {
+        "authors": [
+            "yrsegal",
+            "Tristaric",
+            "InsomniaKitten"
+        ],
+        "filename": "classyhats-1.6.0.jar",
+        "name": "Classy Hats",
+        "version": "1.6.0"
+    },
+    {
+        "authors": [
+            "Jaredlll08"
+        ],
+        "filename": "Clumps-3.1.2.jar",
+        "name": "Clumps",
+        "version": "3.1.2"
+    },
+    {
+        "authors": [
+            "Team CoFH"
+        ],
+        "filename": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+        "name": "CoFH Core",
+        "url": "http://www.teamcofh.com",
+        "version": "4.6.6.1"
+    },
+    {
+        "authors": [
+            "Team CoFH"
+        ],
+        "filename": "CoFHWorld-1.12.2-1.2.0.5-universal.jar",
+        "name": "CoFH World",
+        "url": "http://www.teamcofh.com",
+        "version": "1.2.0.5"
+    },
+    {
+        "authors": [
+            "ChickenBones",
+            "covers1624"
+        ],
+        "filename": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+        "name": "CodeChicken Lib",
+        "url": "http://chickenbones.net/Pages/links.html",
+        "version": "3.2.3.358"
+    },
+    {
+        "authors": [
+            "Rick South"
+        ],
+        "filename": "collective-1.12.2-3.0.jar",
+        "name": "Collective",
+        "url": "https://curseforge.com/minecraft/mc-mods/collective",
+        "version": "3.0"
+    },
+    {
+        "authors": [
+            "C4"
+        ],
+        "filename": "comforts-1.12.2-1.4.1.3.jar",
+        "name": "Comforts",
+        "version": "1.12.2-1.4.1.3"
+    },
+    {
+        "authors": [
+            "Jaredlll08"
+        ],
+        "filename": "Controlling-3.0.12.4.jar",
+        "name": "Controlling",
+        "version": "3.0.12.4"
+    },
+    {
+        "authors": [
+            "Corail31"
+        ],
+        "filename": "tombstone-1.12.2-4.4.7.jar",
+        "name": "Corail Tombstone",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
+        "version": "4.4.7"
+    },
+    {
+        "authors": [
+            "StanHebben",
+            "Jaredlll08"
+        ],
+        "filename": "CraftTweaker2-1.12-4.1.20.715.jar",
+        "name": "CraftTweaker2",
+        "url": "http://minetweaker3.powerofbytes.com",
+        "version": "1.12-4.1.20.715"
+    },
+    {
+        "authors": [
+            "McReimmann2"
+        ],
+        "filename": "Craftable Enchanted Golden Apple +1.0-forge1.12.2.jar",
+        "name": "Craftable Enchanted Golden Apple + ",
+        "url": "https://modrinth.com/mod/craftable-enchanted-golden-apple-+",
+        "version": "1.0"
+    },
+    {
+        "authors": [
+            "CreativeMD",
+            "N247S"
+        ],
+        "filename": "CreativeCore_v1.10.71_mc1.12.2.jar",
+        "name": "CreativeCore",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/creativecore",
+        "version": "1.10"
+    },
+    {
+        "authors": [
+            "Rick South"
+        ],
+        "filename": "cyclepaintings_1.12.2-2.0.jar",
+        "name": "Cycle Paintings",
+        "url": "https://curseforge.com/minecraft/mc-mods/cycle-paintings",
+        "version": "2.0"
+    },
+    {
+        "authors": [
+            "rubensworks (aka kroeserr)",
+            "immortaleeb (aka _EeB_)"
+        ],
+        "filename": "CyclopsCore-1.12.2-1.6.7.jar",
+        "name": "Cyclops Core",
+        "url": "https://minecraft.curseforge.com/projects/cyclops-core",
+        "version": "1.12.2-1.6.7"
+    },
+    {
+        "authors": [
+            "xt9 (IterationFunk)"
+        ],
+        "filename": "deepmoblearning-1.12.2-2.6.0-universal.jar",
+        "name": "Deep Mob Learning",
+        "url": "https://minecraft.curseforge.com/projects/deep-mob-learning",
+        "version": "1.12.2-2.6.0"
+    },
+    {
+        "authors": [
+            "xt9 (IterationFunk)"
+        ],
+        "filename": "deepmoblearningbm-1.12.2-1.1.0-universal.jar",
+        "name": "Deep Mob Learning - Blood Magic Addon",
+        "url": "https://minecraft.curseforge.com/projects/deep-mob-learning",
+        "version": "1.12.2-1.1.0"
+    },
+    {
+        "authors": [
+            "Lykrast"
+        ],
+        "filename": "defiledlands-1.12.2-1.4.3.jar",
+        "name": "Defiled Lands",
+        "version": "1.12.2-1.4.3"
+    },
+    {
+        "filename": "DenseMetals-1.12.2-2.0.0.30.jar",
+        "name": "DenseMetals-1.12.2-2.0.0.30"
+    },
+    {
+        "authors": [
+            "Rick South"
+        ],
+        "filename": "despawningeggshatch_1.12.2-2.2.jar",
+        "name": "Despawning Eggs Hatch",
+        "url": "https://curseforge.com/minecraft/mc-mods/despawning-eggs-hatch",
+        "version": "2.2"
+    },
+    {
+        "authors": [
+            "DrZhark",
+            "BloodShot",
+            "BlockDaddy"
+        ],
+        "filename": "EllieMoCreature.jar",
+        "name": "DrZhark's Mo'Creatures Mod",
+        "url": "http://www.mocreatures.org",
+        "version": "12.0.5"
+    },
+    {
+        "authors": [
+            "Darkhax"
+        ],
+        "filename": "EnchantmentDescriptions-1.12.2-1.1.20.jar",
+        "name": "Enchantment Descriptions",
+        "url": "http://www.darkhax.net",
+        "version": "1.1.20"
+    },
+    {
+        "authors": [
+            "FakeDrayn",
+            "UnOriginal"
+        ],
+        "filename": "end_expansion_v1.3.jar",
+        "name": "End Expansion",
+        "url": "http://modpage",
+        "version": "1.12.2-0.1.3"
+    },
+    {
+        "authors": [
+            "CrazyPants",
+            "tterrag",
+            "HenryLoenwind",
+            "MatthiasM",
+            "CyanideX",
+            "EpicSquid"
+        ],
+        "filename": "EnderIO-base-1.12.2-5.3.70.jar",
+        "name": "Ender IO",
+        "url": "http://enderio.com",
+        "version": "5.3.70"
+    },
+    {
+        "authors": [
+            "CrazyPants",
+            "tterrag",
+            "HenryLoenwind",
+            "MatthiasM",
+            "EpicSquid"
+        ],
+        "filename": "EnderIO-conduits-appliedenergistics-1.12.2-5.3.70.jar",
+        "name": "Ender IO Applied Energistics Conduits",
+        "url": "http://enderio.com",
+        "version": "5.3.70"
+    },
+    {
+        "authors": [
+            "CrazyPants",
+            "tterrag",
+            "HenryLoenwind",
+            "MatthiasM",
+            "CyanideX",
+            "EpicSquid",
+            "HypherionSA"
+        ],
+        "filename": "EnderIO-conduits-1.12.2-5.3.70.jar",
+        "name": "Ender IO Conduits",
+        "url": "http://enderio.com",
+        "version": "5.3.70"
+    },
+    {
+        "authors": [
+            "CrazyPants",
+            "tterrag",
+            "HenryLoenwind",
+            "MatthiasM",
+            "CyanideX",
+            "EpicSquid"
+        ],
+        "filename": "EnderIO-machines-1.12.2-5.3.70.jar",
+        "name": "Ender IO Machines",
+        "url": "http://enderio.com",
+        "version": "5.3.70"
+    },
+    {
+        "authors": [
+            "tterrag",
+            "CrazyPants",
+            "HenryLoenwind"
+        ],
+        "filename": "EnderCore-1.12.2-0.5.76.jar",
+        "name": "EnderCore",
+        "url": "http://enderio.com",
+        "version": "1.12.2-0.5.76"
+    },
+    {
+        "authors": [
+            "ChickenBones, covers1624"
+        ],
+        "filename": "EnderStorage-1.12.2-2.4.6.137-universal.jar",
+        "name": "EnderStorage",
+        "url": "http://www.minecraftforum.net/topic/909223",
+        "version": "2.4.6.137"
+    },
+    {
+        "authors": [
+            "Nihiltres"
+        ],
+        "filename": "engineers_doors-1.12.2-0.9.1.jar",
+        "name": "Engineer's Doors",
+        "version": "0.9.1"
+    },
+    {
+        "authors": [
+            "Meldexun"
+        ],
+        "filename": "EntityCulling-1.12.2-6.5.0.jar",
+        "name": "EntityCulling",
+        "url": "https://github.com/Meldexun/EntityCulling",
+        "version": "6.5.0"
+    },
+    {
+        "authors": [
+            "Grend"
+        ],
+        "filename": "EquipmentCompare-1.12.2-1.3.4.jar",
+        "name": "Equipment Compare",
+        "url": "https://anthonyhilyard.com/",
+        "version": "1.3.4"
+    },
+    {
+        "authors": [
+            "rubensworks (aka kroeserr)",
+            "immortaleeb (aka _EeB_)"
+        ],
+        "filename": "EvilCraft-1.12.2-0.10.78.jar",
+        "name": "EvilCraft",
+        "url": "https://github.com/rubensworks/EvilCraft",
+        "version": "1.12.2-0.10.78"
+    },
+    {
+        "authors": [
+            "BlayTheNinth"
+        ],
+        "filename": "ExCompressum_1.12.2-3.0.32.jar",
+        "name": "Ex Compressum",
+        "version": "3.0.32"
+    },
+    {
+        "authors": [
+            "Insaneau",
+            "OhYea777",
+            "Jacky1356400",
+            "BloodWorkXGaming",
+            "SirLyle"
+        ],
+        "filename": "exnihilocreatio-1.12.2-0.4.7.2.jar",
+        "name": "Ex Nihilo Creatio",
+        "version": "1.12.2-0.4.7.2"
+    },
+    {
+        "authors": [
+            "ExtraMeteorP"
+        ],
+        "filename": "ExtraBotany-r1.1-60-beta-hotfix.jar",
+        "name": "ExtraBotany",
+        "version": "r1.1-60"
+    },
+    {
+        "authors": [
+            "Forstride"
+        ],
+        "filename": "FamiliarFauna-1.12.2-1.0.11.jar",
+        "name": "Familiar Fauna",
+        "url": "https://minecraft.curseforge.com/projects/familiar-fauna",
+        "version": "1.0.11"
+    },
+    {
+        "authors": [
+            "Shadows_of_Fire"
+        ],
+        "filename": "FastFurnace-1.12.2-1.3.1.jar",
+        "name": "FastFurnace",
+        "version": "1.12.2-1.3.1"
+    },
+    {
+        "authors": [
+            "Shadows_of_Fire"
+        ],
+        "filename": "FastWorkbench-1.12.2-1.7.4.jar",
+        "name": "FastWorkbench",
+        "version": "1.12.2-1.7.4"
+    },
+    {
+        "authors": [
+            "fonnymunkey"
+        ],
+        "filename": "`FermiumBooter-1.3.0.jar",
+        "name": "FermiumBooter",
+        "url": "https://www.curseforge.com/members/fonnymunkey/projects",
+        "version": "1.3.0"
+    },
+    {
+        "authors": [
+            "ichttt",
+            "TechnikforLife"
+        ],
+        "filename": "firstaid-1.6.22.jar",
+        "name": "First Aid",
+        "url": "https://minecraft.curseforge.com/projects/first-aid",
+        "version": "1.6.22"
+    },
+    {
+        "authors": [
+            "Fish0016054",
+            "IcarussOne",
+            "ACGaming",
+            "xJon"
+        ],
+        "filename": "Fish's Undead Rising-1.6.2.jar",
+        "name": "Fish's Undead Rising",
+        "url": "https://minecraft.curseforge.com/projects/fishs-undead-rising",
+        "version": "1.6.2"
+    },
+    {
+        "authors": [
+            "TheAwesomeGem",
+            "Fonnymunkey"
+        ],
+        "filename": "FishingMadeBetter-1.12.2-2.2.6.jar",
+        "name": "Fishing Made Better",
+        "url": "https://www.curseforge.com/members/fonnymunkey/projects",
+        "version": "2.2.6"
+    },
+    {
+        "authors": [
+            "Lellson"
+        ],
+        "filename": "FoodExpansion1.3.3-1.12.2.jar",
+        "name": "Food Expansion",
+        "version": "1.2.1"
+    },
+    {
+        "authors": [
+            "TheDarkColour"
+        ],
+        "filename": "Future-MC-0.2.21.jar",
+        "name": "Future MC",
+        "version": "0.2.21"
+    },
+    {
+        "authors": [
+            "wile"
+        ],
+        "filename": "rsgauges-1.12.2-1.2.8.jar",
+        "name": "Gauges and Switches",
+        "url": "https://github.com/stfwi/rsgauges/",
+        "version": "1.2.8"
+    },
+    {
+        "authors": [
+            "Gecko, Eliot, AzureDoom, McHorse, DerToaster"
+        ],
+        "filename": "geckolib-forge-1.12.2-3.0.31.jar",
+        "name": "GeckoLib",
+        "url": "http://berniesoftware.com/",
+        "version": "${version}"
+    },
+    {
+        "authors": [
+            "bl4ckscor3"
+        ],
+        "filename": "getittogetherdrops-1.12.2-v1.0.2.jar",
+        "name": "Get It Together, Drops!",
+        "url": "https://curseforge.com/minecraft/mc-mods/get-it-together-drops",
+        "version": "v1.0.2"
+    },
+    {
+        "authors": [
+            "Tombenpotter",
+            "TehNut"
+        ],
+        "filename": "Guide-API-1.12-2.1.8-63.jar",
+        "name": "Guide-API",
+        "version": "1.12-2.1.8-63"
+    },
+    {
+        "authors": [
+            "HammerTater"
+        ],
+        "filename": "TreeChop-1.12.2-0.14.8.jar",
+        "name": "HT's TreeChop",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/treechop",
+        "version": "${mod_version}"
+    },
+    {
+        "authors": [
+            "Grend"
+        ],
+        "filename": "Highlighter-1.12.2-forge-1.1.7.jar",
+        "name": "Highlighter",
+        "url": "https://anthonyhilyard.com/",
+        "version": "1.1.7"
+    },
+    {
+        "authors": [
+            "Alexthe666",
+            "Raptorfarian",
+            "Kotlin-Programmer"
+        ],
+        "filename": "Ice and Fire-2.0.7.jar",
+        "name": "Ice and Fire",
+        "version": "2.0.7"
+    },
+    {
+        "authors": [
+            "LiteWolf101"
+        ],
+        "filename": "IllagersPlus-1.12.2-1.1.3.jar",
+        "name": "Illagers+",
+        "version": "1.1"
+    },
+    {
+        "authors": [
+            "SanAndreasP"
+        ],
+        "filename": "ImmersiveCables-1.12.2-1.3.2.jar",
+        "name": "Immersive Cables",
+        "url": "https://github.com/SanAndreasP/immersivecables",
+        "version": "1.3.2"
+    },
+    {
+        "authors": [
+            "BluSunrize",
+            "Damien A.W. Hazard"
+        ],
+        "filename": "ImmersiveEngineering-0.12-98.jar",
+        "name": "Immersive Engineering",
+        "url": "https://github.com/BluSunrize/ImmersiveEngineering",
+        "version": "0.12-98"
+    },
+    {
+        "authors": [
+            "Flaxbeard"
+        ],
+        "filename": "immersivepetroleum-1.12.2-1.1.10.jar",
+        "name": "Immersive Petroleum",
+        "url": "https://github.com/Flaxbeard/ImmersivePetroleum",
+        "version": "1.1.10"
+    },
+    {
+        "authors": [
+            "TGstyle, Kurtchekov"
+        ],
+        "filename": "MCT-ImmersiveTechnology-1.12.2-1.10.206-release.jar",
+        "name": "Immersive Technology",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/mct-immersive-technology",
+        "version": "1.10.205"
+    },
+    {
+        "authors": [
+            "AtomicStryker"
+        ],
+        "filename": "InfernalMobs-1.12.2.jar",
+        "name": "Infernal Mobs",
+        "url": "http://www.minecraftforum.net/topic/991952-"
+    },
+    {
+        "authors": [
+            "Jimeo Wan",
+            "Kobata"
+        ],
+        "filename": "InventoryTweaks-1.64+dev.151.jar",
+        "name": "Inventory Tweaks",
+        "url": "https://github.com/Kobata/inventory-tweaks",
+        "version": "1.64+dev.151.822d839"
+    },
+    {
+        "authors": [
+            "cpw"
+        ],
+        "filename": "ironchest-1.12.2-7.0.72.847.jar",
+        "name": "Iron Chest",
+        "url": "http://www.minecraftforum.net/topic/981855-",
+        "version": "1.12.2-7.0.67.844"
+    },
+    {
+        "authors": [
+            "Ivorius"
+        ],
+        "filename": "IvToolkit-1.3.3-1.12.jar",
+        "name": "IvToolkit",
+        "url": "http://minecraft.curseforge.com/projects/ivtoolkit",
+        "version": "1.3.3-1.12"
+    },
+    {
+        "authors": [
+            "xerca"
+        ],
+        "filename": "xercapaint-1.12.2-1.3.jar",
+        "name": "Joy of Painting",
+        "url": "https://ercanserteli.com/joy-of-painting/",
+        "version": "1.12.2-1.3"
+    },
+    {
+        "authors": [
+            "beecube31"
+        ],
+        "filename": "Just-Enough-Botania-1.12.2-v0.2.jar",
+        "name": "Just Enough Botania",
+        "version": "v0.2"
+    },
+    {
+        "authors": [
+            "TheRealp455w0rd"
+        ],
+        "filename": "JustEnoughEnergistics-1.12.2-1.0.8.jar",
+        "name": "Just Enough Energistics",
+        "version": "1.12.2-1.0.8"
+    },
+    {
+        "authors": [
+            "mezz"
+        ],
+        "filename": "jei_1.12.2-4.16.5.1027.jar",
+        "name": "Just Enough Items",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/jei",
+        "version": "4.16.5.1027"
+    },
+    {
+        "authors": [
+            "iLexiconn",
+            "gegy1000"
+        ],
+        "filename": "llibrary-1.7.20-1.12.2.jar",
+        "name": "LLibrary",
+        "url": "https://github.com/iLexiconn/LLibrary",
+        "version": "1.7.20-1.12.2"
+    },
+    {
+        "authors": [
+            "Terminator_NL"
+        ],
+        "filename": "LagGoggles-1.12.2-5.9-140.jar",
+        "name": "LagGoggles",
+        "url": "https://minecraft.curseforge.com/projects/laggoggles",
+        "version": "1.12.2-5.9-140"
+    },
+    {
+        "authors": [
+            ""
+        ],
+        "filename": "LetYourFriendEating_1.1.4_1.12.2_Forge.jar",
+        "name": "Let Your Friend Eating!",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/letyourfriendeating",
+        "version": "1.1.4"
+    },
+    {
+        "authors": [
+            "BeetoGuy"
+        ],
+        "filename": "Level Up! 2-1.1.23-1.12.jar",
+        "name": "Level Up! Reloaded",
+        "version": "1.1.23-1.12"
+    },
+    {
+        "authors": [
+            "thecodewarrior",
+            "wiresegal",
+            "LordSaad44",
+            "Elucent",
+            "Eladkay",
+            "murapix",
+            "werty1124",
+            "Leviathan143"
+        ],
+        "filename": "librarianlib-1.12.2-4.22.jar",
+        "name": "LibrarianLib",
+        "version": "4.22"
+    },
+    {
+        "authors": [
+            "CreativeMD",
+            "Shana"
+        ],
+        "filename": "LittleTiles_v1.5.87_mc1.12.2.jar",
+        "name": "LittleTiles",
+        "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2408680"
+    },
+    {
+        "authors": [
+            "Leviathan143"
+        ],
+        "filename": "LootTweaker-0.5.1+MC1.12.2-DLS0.jar",
+        "name": "LootTweaker",
+        "version": "0.5.1"
+    },
+    {
+        "authors": [
+            "Lycanite (Richard Nicholson)"
+        ],
+        "filename": "lycanitesmobs-1.12.2-2.0.8.10.jar",
+        "name": "Lycanites Mobs",
+        "url": "http://lycanitesmobs.com",
+        "version": "1.12.2-2.0.8.10"
+    },
+    {
+        "authors": [
+            "cdstk"
+        ],
+        "filename": "LycanitesTweaks-1.0.16.6.jar",
+        "name": "LycanitesTweaks",
+        "url": "https://www.curseforge.com/members/cdstk/projects",
+        "version": "1.0.16.6"
+    },
+    {
+        "authors": [
+            "Macaw's Mods"
+        ],
+        "filename": "mcw-bridges-1.0.6b-mc1.12.2.jar",
+        "name": "Macaw's Bridges",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/macaws-bridges",
+        "version": "1.0.6"
+    },
+    {
+        "authors": [
+            "Macaw's Mods"
+        ],
+        "filename": "mcw-furniture-1.0.1-mc1.12.2beta.jar",
+        "name": "Macaw's Furniture",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/macaws-furniture",
+        "version": "1.0.1"
+    },
+    {
+        "authors": [
+            "Sketch Macaw, Sketch Peachy"
+        ],
+        "filename": "mcw-lights-1.0.6-mc1.12.2forge.jar",
+        "name": "Macaw's Lights and Lamps",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps",
+        "version": "1.0.6"
+    },
+    {
+        "authors": [
+            "Sketch Macaw & Peachy Macaw"
+        ],
+        "filename": "mcw-paintings-1.0.5-1.12.2forge.jar",
+        "name": "Macaw's Paintings",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/macaws-paintings",
+        "version": "1.0.5"
+    },
+    {
+        "authors": [
+            "Sketch Macaw & Peachy Macaw"
+        ],
+        "filename": "mcw-paths-1.0.2forge-mc1.12.2.jar",
+        "name": "Macaw's Paths & Pavings",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings",
+        "version": "1.0.2"
+    },
+    {
+        "authors": [
+            "Sketch Macaw"
+        ],
+        "filename": "mcw-roofs-1.0.2-mc1.12.2.jar",
+        "name": "Macaw's Roofs",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/macaws-bridges",
+        "version": "1.0.2"
+    },
+    {
+        "authors": [
+            "Sketch Macaw"
+        ],
+        "filename": "mcw-trapdoors-1.0.4-mc1.12.2.jar",
+        "name": "Macaw's Trapdoors",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls",
+        "version": "1.0.4"
+    },
+    {
+        "authors": [
+            "Sketch Macaw"
+        ],
+        "filename": "mcw-windows-1.0.0-mc1.12.2.jar",
+        "name": "Macaw's Windows",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/macaws-windows",
+        "version": "1.0.0"
+    },
+    {
+        "authors": [
+            "stepsword"
+        ],
+        "filename": "mahoutsukai-1.12.2-v1.19.56.jar",
+        "name": "Mahou Tsukai",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai",
+        "version": "${version}"
+    },
+    {
+        "authors": [
+            "boni",
+            "progWML6",
+            "Alexbegt"
+        ],
+        "filename": "Mantle-1.12-1.3.3.55.jar",
+        "name": "Mantle",
+        "url": "https://github.com/SlimeKnights/Mantle",
+        "version": "1.3.3.55"
+    },
+    {
+        "authors": [
+            "aidancbrady",
+            "thommy101",
+            "thiakil",
+            "pupnewfster",
+            "dizzyd"
+        ],
+        "filename": "Mekanism-Community-Edition-1.12.2-9.12.14-Core.jar",
+        "name": "Mekanism Community Edition",
+        "version": "9.12.14"
+    },
+    {
+        "authors": [
+            "aidancbrady",
+            "thommy101",
+            "thiakil",
+            "pupnewfster",
+            "dizzyd"
+        ],
+        "filename": "Mekanism-Community-Edition-1.12.2-9.12.14-Generators.jar",
+        "name": "Mekanism Community Edition: Generators",
+        "version": "9.12.14"
+    },
+    {
+        "authors": [
+            "aidancbrady"
+        ],
+        "filename": "Mekanism-Community-Edition-1.7.10-9.10.48-Tools.jar",
+        "name": "MekanismTools Community Edition",
+        "version": "9.10.48"
+    },
+    {
+        "authors": [
+            "XxRexRaptorxX (RexRaptor)"
+        ],
+        "filename": "MineTraps-1.12.2-(v.1.0.4).jar",
+        "name": "MineTraps",
+        "version": "1.0.4"
+    },
+    {
+        "authors": [
+            "Rongmario"
+        ],
+        "filename": "!mixinbooter-11.15.jar",
+        "name": "MixinBooter",
+        "url": "https://github.com/CleanroomMC/MixinBooter",
+        "version": "11.15"
+    },
+    {
+        "authors": [
+            "mezz"
+        ],
+        "filename": "modnametooltip_1.12.2-1.10.1.jar",
+        "name": "Mod Name Tooltip",
+        "url": "https://github.com/mezz/ModNameTooltip",
+        "version": "1.10.1"
+    },
+    {
+        "authors": [
+            "DaveDuart"
+        ],
+        "filename": "MoreCraftingTables-Forge-1.2.0.jar",
+        "name": "More Crafting Tables for Forge",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/more-crafting-tables-for-forge",
+        "version": "1.2.0"
+    },
+    {
+        "authors": [
+            "YaLTeR"
+        ],
+        "filename": "MouseTweaks-2.10.1-mc1.12.2.jar",
+        "name": "Mouse Tweaks",
+        "url": "http://www.minecraftforum.net/topic/1518185-",
+        "version": "2.10.1"
+    },
+    {
+        "authors": [
+            "Blargerist"
+        ],
+        "filename": "MultithreadedNoise-1.12.2-0.0.2.jar",
+        "name": "Multithreaded Noise",
+        "url": "http://bloodnbonesgaming.com/",
+        "version": "0.0.2"
+    },
+    {
+        "authors": [
+            "EpicSquid",
+            "Elucent"
+        ],
+        "filename": "mysticallib-1.12.2-1.13.0.jar",
+        "name": "Mystical Lib",
+        "version": "1.12.2-1.13.0"
+    },
+    {
+        "authors": [
+            "Noobanidus",
+            "EpicSquid",
+            "Martacus",
+            "Davoleo",
+            "Kalaxi",
+            "Vulpie"
+        ],
+        "filename": "mysticalworld-1.12.2-1.11.0.jar",
+        "name": "Mystical World",
+        "version": "1.12.2-1.11.0"
+    },
+    {
+        "authors": [
+            "ChaosTheDude"
+        ],
+        "filename": "NaturesCompass-1.12.2-1.8.5.jar",
+        "name": "Nature's Compass",
+        "url": "https://minecraft.curseforge.com/projects/natures-compass",
+        "version": "1.12.2-1.8.5"
+    },
+    {
+        "authors": [
+            "jbredwards"
+        ],
+        "filename": "Nether-API-v1.4.5-mc1.12.2.jar",
+        "name": "Nether API",
+        "url": "https://github.com/jbredwards/Nether-API",
+        "version": "1.4.5"
+    },
+    {
+        "authors": [
+            "fewizz",
+            "Player"
+        ],
+        "filename": "NotEnoughIDs-1.5.4.4.jar",
+        "name": "NotEnoughIDs",
+        "version": "1.5.4.4"
+    },
+    {
+        "authors": [
+            "tomdodd4598"
+        ],
+        "filename": "nuclearcraft-1.12.2-2.19a.jar",
+        "name": "NuclearCraft",
+        "url": "https://minecraft.curseforge.com/projects/nuclearcraft-mod",
+        "version": "2.19a"
+    },
+    {
+        "authors": [
+            "Pamela Collins"
+        ],
+        "filename": "Pam's HarvestCraft 1.12.2zg.jar",
+        "name": "Pam's HarvestCraft",
+        "url": "http://minecraft.curseforge.com/members/MatrexsVigil/projects",
+        "version": "1.12.2zg"
+    },
+    {
+        "authors": [
+            "Vazkii"
+        ],
+        "filename": "Patchouli-1.0-23.6.jar",
+        "name": "Patchouli",
+        "url": "http://www.vazkii.us",
+        "version": "1.0-23.6"
+    },
+    {
+        "authors": [
+            "BlueAgent"
+        ],
+        "filename": "plonk-1.12.2-10.0.4.jar",
+        "name": "Plonk",
+        "version": "10.0.4"
+    },
+    {
+        "authors": [
+            "ochotonida",
+            "fonnymunkey"
+        ],
+        "filename": "RLArtifacts-1.1.2.jar",
+        "name": "RLArtifacts",
+        "url": "https://www.curseforge.com/members/fonnymunkey/projects",
+        "version": "1.1.2"
+    },
+    {
+        "authors": [
+            "Smileycorp"
+        ],
+        "filename": "Raids-Backport-1.12.2-1.1.5b.jar",
+        "name": "Raids",
+        "version": "1.1.5a"
+    },
+    {
+        "authors": [
+            "Meldexun"
+        ],
+        "filename": "ReachFix-1.12.2-1.1.3.jar",
+        "name": "Reach Fix",
+        "url": "https://github.com/Meldexun/ReachFix",
+        "version": "1.1.3"
+    },
+    {
+        "authors": [
+            "NoCube"
+        ],
+        "filename": "realmrpg_pots_and_mimics_0.0.2_forge_1.12.2.jar",
+        "name": "Realm RPG: Pots & Mimics",
+        "url": "https://www.youtube.com/@nocubemc",
+        "version": "0.0.2"
+    },
+    {
+        "authors": [
+            "Ivorius"
+        ],
+        "filename": "RecurrentComplex-1.4.8.6.jar",
+        "name": "Recurrent Complex",
+        "version": "${version}"
+    },
+    {
+        "authors": [
+            "Team CoFH"
+        ],
+        "filename": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+        "name": "Redstone Flux",
+        "url": "http://www.teamcofh.com",
+        "version": "2.1.1.1"
+    },
+    {
+        "authors": [
+            "Meldexun"
+        ],
+        "filename": "RenderLib-1.12.2-1.4.5.jar",
+        "name": "RenderLib",
+        "url": "https://github.com/Meldexun/RenderLib",
+        "version": "1.4.5"
+    },
+    {
+        "authors": [
+            "Lanse505",
+            "pupnewfster",
+            "jaredlll08",
+            "SkySom"
+        ],
+        "filename": "Reskillable-1.12.2-1.13.0.jar",
+        "name": "Reskillable",
+        "url": "https://minecraft.curseforge.com/projects/reskillable",
+        "version": "1.13.0"
+    },
+    {
+        "authors": [
+            "Greymerk",
+            "Fnar"
+        ],
+        "filename": "RoguelikeDungeonsFnarEdition-1.12.2-2.4.6.jar",
+        "name": "Roguelike Dungeons",
+        "url": "http://github.com/fnar/minecraft-roguelike",
+        "version": "${version}"
+    },
+    {
+        "authors": [
+            "Sir_Cow"
+        ],
+        "filename": "roomfortwo-forge-1.12.2-0.2.0.jar",
+        "name": "Room For Two",
+        "url": "https://github.com/Sir-Cow/room-for-two",
+        "version": "0.2.0"
+    },
+    {
+        "authors": [
+            "EpicSquid",
+            "Martacus",
+            "Noobanidus",
+            "Davoleo",
+            "Kalaxi",
+            "Elucent",
+            "ByThePowerOfScience"
+        ],
+        "filename": "Roots-1.12.2-3.1.9.2.jar",
+        "name": "Roots",
+        "version": "1.12.2-3.1.9.2"
+    },
+    {
+        "authors": [
+            "Reish",
+            "That Martin Guy",
+            "ConnorTron110",
+            "Kaiju Rizard",
+            "Proven Beat",
+            "Rodent",
+            "Alexiy",
+            "DL Baryonyx",
+            "Grace",
+            "Corvus B. and Totemaster (sounds)"
+        ],
+        "filename": "SCP Lockdown-1.12.2-2.4.3-release.jar",
+        "name": "SCP: Lockdown",
+        "version": "2.4.3"
+    },
+    {
+        "authors": [
+            "shadowfacts"
+        ],
+        "filename": "Forgelin-1.8.4.jar",
+        "name": "Shadowfacts' Forgelin",
+        "url": "https://github.com/shadowfacts/Forgelin",
+        "version": "1.8.4"
+    },
+    {
+        "authors": [
+            "MrRiegel",
+            "Lothrazar"
+        ],
+        "filename": "SimpleStorageNetwork-1.12.2-2.0.1.jar",
+        "name": "Simple Storage Network",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/simple-storage-network",
+        "version": "1.12.2-2.0.1"
+    },
+    {
+        "authors": [
+            "Max Henkel"
+        ],
+        "filename": "voicechat-forge-1.12.2-2.6.22.jar",
+        "name": "Simple Voice Chat",
+        "url": "https://modrepo.de/minecraft/voicechat/overview",
+        "version": "1.12.2-2.6.22"
+    },
+    {
+        "authors": [
+            "Samlegamer"
+        ],
+        "filename": "spartandefiled-1.12.2-1.2.jar",
+        "name": "Spartan Defiled",
+        "url": "https://curseforge.com/minecraft/mc-mods/spartan-defiled",
+        "version": "${version}"
+    },
+    {
+        "authors": [
+            "Kovak",
+            "Fonnymunkey"
+        ],
+        "filename": "spartanfire_rlcraft-1.3.2.jar",
+        "name": "Spartan Fire: RLCraft",
+        "url": "https://www.curseforge.com/members/fonnymunkey/projects",
+        "version": "1.3.2"
+    },
+    {
+        "authors": [
+            "ObliviousSpartan"
+        ],
+        "filename": "SpartanShields-1.12.2-1.5.5.jar",
+        "name": "Spartan Shields",
+        "url": "https://minecraft.curseforge.com/projects/spartan-shields",
+        "version": "1.5.5"
+    },
+    {
+        "authors": [
+            "ObliviousSpartan"
+        ],
+        "filename": "SpartanWeaponry-1.12.2-1.6.1.jar",
+        "name": "Spartan Weaponry",
+        "url": "https://minecraft.curseforge.com/projects/spartan-weaponry",
+        "version": "1.6.1"
+    },
+    {
+        "authors": [
+            "jaquadro"
+        ],
+        "filename": "StorageDrawers-1.12.2-5.5.2.jar",
+        "name": "Storage Drawers",
+        "url": "http://www.jaquadro.com/",
+        "version": "5.5.2"
+    },
+    {
+        "authors": [
+            "Raptor__",
+            "E2r7hN07Fl47"
+        ],
+        "filename": "StorageDrawersUnlimitedFixed-1.12.2-1.3.1.jar",
+        "name": "Storage Drawers Unlimited Fixed",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/storage-drawers-unlimited-fixed",
+        "version": "1.12.2-1.3.1"
+    },
+    {
+        "authors": [
+            "SuperMartijn642"
+        ],
+        "filename": "_supermartijn642corelib-1.1.24a-forge-mc1.12.jar",
+        "name": "SuperMartijn642's Core Lib",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib",
+        "version": "1.1.24+a"
+    },
+    {
+        "authors": [
+            "Darkhax",
+            "Jaredlll08",
+            "lclc98"
+        ],
+        "filename": "Surge-1.12.2-2.0.79.jar",
+        "name": "Surge",
+        "version": "2.0.79"
+    },
+    {
+        "authors": [
+            "boni",
+            "nischhelm"
+        ],
+        "filename": "MmmMmmMmmMmm-1.12-2.0.5.jar",
+        "name": "TestDummy",
+        "version": "2.0.0"
+    },
+    {
+        "authors": [
+            "Azanor"
+        ],
+        "filename": "Thaumcraft-1.12.2-6.1.BETA26.jar",
+        "name": "Thaumcraft",
+        "url": "http://www.minecraftforum.net/topic/2011841-thaumcraft",
+        "version": "1.12.2-6.1.BETA26"
+    },
+    {
+        "authors": [
+            "TheCodex6824"
+        ],
+        "filename": "ThaumcraftFix-1.12.2-1.1.4.jar",
+        "name": "Thaumcraft Fix",
+        "version": "1.12.2-1.1.4"
+    },
+    {
+        "authors": [
+            "ShadowKing21"
+        ],
+        "filename": "tc_integration-1.2-1.12.2.jar",
+        "name": "Thaumcraft Integration",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/thaumcraft-integration",
+        "version": "1.2-1.12.2"
+    },
+    {
+        "authors": [
+            "TheCodex6824"
+        ],
+        "filename": "ThaumcraftResearchPatcher-1.12.2-1.1.3.jar",
+        "name": "Thaumcraft Research Patcher",
+        "version": "1.12.2-1.1.3"
+    },
+    {
+        "authors": [
+            "Delfayne"
+        ],
+        "filename": "thaumic-energistics-extended-life-1.12.2-2.3.5.jar",
+        "name": "Thaumic Energistics",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/thaumic-energistics-extended-life",
+        "version": "2.3.5"
+    },
+    {
+        "authors": [
+            "mangoose"
+        ],
+        "filename": "thaumicperiphery-0.3.1.jar",
+        "name": "Thaumic Periphery",
+        "version": "0.3.1"
+    },
+    {
+        "authors": [
+            "keletu",
+            "IcarussOne",
+            "KatrinaAS",
+            "AEXioahu"
+        ],
+        "filename": "thaumictinkerer-1.12.2-5.9.3-Unofficial.jar",
+        "name": "Thaumic Tinkerer Unofficial",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/thaumic-tinkerer-unofficial",
+        "version": "1.12.2-5.9.1-Unofficial"
+    },
+    {
+        "authors": [
+            "Buuz135"
+        ],
+        "filename": "ThaumicJEI-1.12.2-1.7.0.jar",
+        "name": "ThaumicJEI",
+        "version": "1.12.2-1.7.0"
+    },
+    {
+        "filename": "ThaumicJEI-1.12.2-1.7.0.jar.duplicate",
+        "name": "ThaumicJEI-1.12.2-1.7.0.jar.duplicate"
+    },
+    {
+        "authors": [
+            "McJty"
+        ],
+        "filename": "theoneprobe-1.12-1.4.28.jar",
+        "name": "The One Probe",
+        "version": "1.12-1.4.28"
+    },
+    {
+        "authors": [
+            "Team CoFH"
+        ],
+        "filename": "ThermalCultivation-1.12.2-0.3.6.1-universal.jar",
+        "name": "Thermal Cultivation",
+        "url": "http://www.teamcofh.com",
+        "version": "0.3.6.1"
+    },
+    {
+        "authors": [
+            "Team CoFH"
+        ],
+        "filename": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+        "name": "Thermal Dynamics",
+        "url": "http://www.teamcofh.com",
+        "version": "2.5.6.1"
+    },
+    {
+        "authors": [
+            "Team CoFH"
+        ],
+        "filename": "ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+        "name": "Thermal Expansion",
+        "url": "http://www.teamcofh.com",
+        "version": "5.5.7.1"
+    },
+    {
+        "authors": [
+            "Team CoFH"
+        ],
+        "filename": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+        "name": "Thermal Foundation",
+        "url": "http://www.teamcofh.com",
+        "version": "2.6.7.1"
+    },
+    {
+        "authors": [
+            "Team CoFH"
+        ],
+        "filename": "ThermalInnovation-1.12.2-0.3.6.1-universal.jar",
+        "name": "Thermal Innovation",
+        "url": "http://www.teamcofh.com",
+        "version": "0.3.6.1"
+    },
+    {
+        "filename": "TickCentral-3.2.jar",
+        "name": "TickCentral-3.2"
+    },
+    {
+        "authors": [
+            "possible_triangle"
+        ],
+        "filename": "tinkersjei-1.2.jar",
+        "name": "Tinker's JEI",
+        "version": "1.2"
+    },
+    {
+        "authors": [
+            "oitsjustjose"
+        ],
+        "filename": "Tinkers' Addons-1.12.1-1.0.7.jar",
+        "name": "Tinkers' Addons",
+        "version": "1.0.7"
+    },
+    {
+        "authors": [
+            "boni",
+            "KnightMiner"
+        ],
+        "filename": "TConstruct-1.12.2-2.13.0.183.jar",
+        "name": "Tinkers' Construct",
+        "url": "https://github.com/SlimeKnights/TinkersConstruct",
+        "version": "1.12.2-2.13.0.183"
+    },
+    {
+        "authors": [
+            "youyihj"
+        ],
+        "filename": "TinkersOreDictCache-1.0.jar",
+        "name": "TinkersOreDictCache",
+        "version": "1.0"
+    },
+    {
+        "authors": [
+            "gigaherz"
+        ],
+        "filename": "ToolBelt-1.12.2-1.9.14.jar",
+        "name": "Tool Belt",
+        "url": "https://github.com/gigaherz/ToolBelt",
+        "version": "1.9.14"
+    },
+    {
+        "authors": [
+            "ExampleDude"
+        ],
+        "filename": "[1.12-1.12.2]TorchBowMod_v1.4.jar",
+        "name": "TorchBowMod",
+        "version": "1.0"
+    },
+    {
+        "authors": [
+            "Tiviacz1337"
+        ],
+        "filename": "TravelersBackpack-1.12.2-1.0.35.jar",
+        "name": "Traveler's Backpack",
+        "version": "1.0.35"
+    },
+    {
+        "authors": [
+            "konwboy"
+        ],
+        "filename": "tumbleweed-1.12-0.4.7.jar",
+        "name": "Tumbleweed",
+        "version": "1.12-0.4.7"
+    },
+    {
+        "authors": [
+            "Beethoven92"
+        ],
+        "filename": "twoplayersonehorse-1.12.2-1.0.3.jar",
+        "name": "TwoPlayersOneHorse",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/two-players-one-horse",
+        "version": "1.0.3"
+    },
+    {
+        "authors": [
+            "exterminatorJeff",
+            "Zeno410",
+            "kyeiti"
+        ],
+        "filename": "UndergroundBiomesConstructs-1.12-1.3.14.jar",
+        "name": "Underground Biomes",
+        "version": "1.3.14"
+    },
+    {
+        "authors": [
+            "asie"
+        ],
+        "filename": "UnlimitedChiselWorks-0.3.5.jar",
+        "name": "Unlimited Chisel Works",
+        "url": "https://charset.asie.pl/",
+        "version": "0.3.5"
+    },
+    {
+        "authors": [
+            "Focamacho"
+        ],
+        "filename": "VampiresNeedUmbrellas-1.12.2-1.5.jar",
+        "name": "Vampires Need Umbrellas",
+        "version": "1.5"
+    },
+    {
+        "authors": [
+            "maxanier",
+            "Cheaterpaul"
+        ],
+        "filename": "Vampirism-1.12.2-1.6.2.jar",
+        "name": "Vampirism",
+        "url": "https://vampirism.maxanier.de/",
+        "version": "1.6.2"
+    },
+    {
+        "authors": [
+            "maxanier"
+        ],
+        "filename": "VampirismIntegrations-1.12.2-1.3.0.jar",
+        "name": "VampirismIntegrations",
+        "url": "https://maxanier.de/projects/vampirism",
+        "version": "1.12.2-1.3.0"
+    },
+    {
+        "authors": [
+            "Runemoro",
+            "ZombieHDGaming"
+        ],
+        "filename": "VanillaFix-1.0.10-150.jar",
+        "name": "VanillaFix",
+        "url": "https://minecraft.curseforge.com/projects/vanillafix",
+        "version": "1.0.10-150"
+    },
+    {
+        "authors": [
+            "AstroTibs"
+        ],
+        "filename": "VillageNames-1.12.2-4.4.13.jar",
+        "name": "Village Names",
+        "url": "https://modrinth.com/mod/village-names"
+    },
+    {
+        "authors": [
+            "BlayTheNinth"
+        ],
+        "filename": "Waystones_1.12.2-4.1.0.jar",
+        "name": "Waystones",
+        "version": "4.1.0"
+    },
+    {
+        "authors": [
+            "bl4ckscor3"
+        ],
+        "filename": "xptome-1.12.2-v2.0.1.jar",
+        "name": "XP Tome",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/xp-tome/files/all",
+        "version": "v2.0.1"
+    },
+    {
+        "authors": [
+            "YUNGNICKYOUNG"
+        ],
+        "filename": "bettercaves-1.12.2-2.0.4.jar",
+        "name": "YUNG's Better Caves",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves",
+        "version": "1.12.2-2.0.4"
+    },
+    {
+        "authors": [
+            "YUNGNICKYOUNG"
+        ],
+        "filename": "BetterMineshaftsForge-1.12.2-2.2.1.jar",
+        "name": "YUNG's Better Mineshafts",
+        "version": "1.12.2-2.2.1"
+    },
+    {
+        "filename": "ceilingtorch-1.12.2-v1.3.1.jar",
+        "name": "ceilingtorch-1.12.2-v1.3.1"
+    },
+    {
+        "filename": "just-enough-harvestcraft-1.12.2-1.7.2.jar",
+        "name": "just-enough-harvestcraft-1.12.2-1.7.2"
+    },
+    {
+        "filename": "memory_repo",
+        "name": "memory_repo"
+    },
+    {
+        "authors": [
+            "TheRealp455w0rd"
+        ],
+        "filename": "p455w0rdslib-1.12.2-2.3.161.jar",
+        "name": "p455w0rd's Library",
+        "version": "1.12.2-2.3.161"
+    },
+    {
+        "filename": "switchbow-1.6.8.jar",
+        "name": "switchbow-1.6.8"
+    }
+]
