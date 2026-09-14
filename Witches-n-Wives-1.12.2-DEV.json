@@ -472,17 +472,6 @@
     },
     {
         "authors": [
-            "DrZhark",
-            "BloodShot",
-            "BlockDaddy"
-        ],
-        "filename": "EllieMoCreature.jar",
-        "name": "DrZhark's Mo'Creatures Mod",
-        "url": "http://www.mocreatures.org",
-        "version": "12.0.5"
-    },
-    {
-        "authors": [
             "Darkhax"
         ],
         "filename": "EnchantmentDescriptions-1.12.2-1.1.20.jar",
@@ -1130,6 +1119,15 @@
     },
     {
         "authors": [
+            "ACGaming, IcarussOne, xJon, DrZhark, BlockDaddy, Bloodshot"
+        ],
+        "filename": "mocreatures-12.5.1.jar",
+        "name": "Mo' Creatures Extended",
+        "url": "https://github.com/EliteModdingTeam/MoCreaturesExtended",
+        "version": "12.5.1"
+    },
+    {
+        "authors": [
             "mezz"
         ],
         "filename": "modnametooltip_1.12.2-1.10.1.jar",
@@ -1309,15 +1307,6 @@
         "name": "RenderLib",
         "url": "https://github.com/Meldexun/RenderLib",
         "version": "1.4.5"
-    },
-    {
-        "authors": [
-            "Jir0we"
-        ],
-        "filename": "WitchesNWives-ReskillableREmake-1.12.2-1.13.1.jar",
-        "name": "WitchesNWives-ReskillableRemake",
-        "url": "https://github.com/Jir0we/WitchesNWives1.12.2-Reskillable-Reval",
-        "version": "1.13.1"
     },
     {
         "authors": [
@@ -1760,6 +1749,15 @@
         "filename": "Waystones_1.12.2-4.1.0.jar",
         "name": "Waystones",
         "version": "4.1.0"
+    },
+    {
+        "authors": [
+            "Jir0we"
+        ],
+        "filename": "WitchesNWives-ReskillableRemake-1.12.2-1.13.1.jar",
+        "name": "WitchesNWives-ReskillableRemake",
+        "url": "https://github.com/Jir0we/WitchesNWives1.12.2-Reskillable-Reval",
+        "version": "1.13.1"
     },
     {
         "authors": [
